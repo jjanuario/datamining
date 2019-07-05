@@ -9,9 +9,9 @@ One to two paragraph statement about your product and what it does.
 
 ![](datamining.jpg)
 
-## [Analisando dados do Pronatec]()
+## [Analisando dados do Pronatec](Analisando_dados_abertos.ipynb)
 
-## [Analisando dados de Saude]()
+## [Analisando dados de Saude](ManipulandoCirurgiasCSV.ipynb)
 
 
 <!-- Markdown link & img dfn's -->
