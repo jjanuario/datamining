@@ -12,13 +12,13 @@
 
 ### Lista com alguns dados abertos do Brasil
 
-https://dadosabertos.camara.leg.br/
-https://www.senado.leg.br/
-http://dadosabertos.cl.df.gov.br/
-http://dados.gov.br/
-http://dados.df.gov.br/
-http://brasil.io/
-http://patiodigital.prefeitura.sp.gov.br/
+https://dadosabertos.camara.leg.br/ \n
+https://www.senado.leg.br/\n
+http://dadosabertos.cl.df.gov.br/\n
+http://dados.gov.br/\n
+http://dados.df.gov.br/\n
+http://brasil.io/\n
+http://patiodigital.prefeitura.sp.gov.br/\n
 
 #### [Analisando dados do Pronatec](Analisando_dados_abertos.ipynb)
 ##### Nesse caso de estudo, analiso dados obtidos via portal da transparência com objetivo de entender a distribuição de unidades de ensino no país.
