@@ -1,5 +1,5 @@
 # Analisando dados abertos obtidos via portal da transparencia.
-> Repositorio para analise de dados abertos com intuito de aprendizado.
+> Repositorio para analise de dados abertos, com intuito de aprendizado e base de referência para analises.
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
@@ -12,13 +12,12 @@
 
 ### Lista com alguns dados abertos do Brasil
 
-https://dadosabertos.camara.leg.br/ \n
-https://www.senado.leg.br/\n
-http://dadosabertos.cl.df.gov.br/\n
-http://dados.gov.br/\n
-http://dados.df.gov.br/\n
-http://brasil.io/\n
-http://patiodigital.prefeitura.sp.gov.br/\n
+https://dadosabertos.camara.leg.br/ </br>
+http://dadosabertos.cl.df.gov.br/ </br>
+http://dados.gov.br/ </br>
+http://dados.df.gov.br/ </br>
+http://brasil.io/ </br>
+http://patiodigital.prefeitura.sp.gov.br/ </br>
 
 #### [Analisando dados do Pronatec](Analisando_dados_abertos.ipynb)
 ##### Nesse caso de estudo, analiso dados obtidos via portal da transparência com objetivo de entender a distribuição de unidades de ensino no país.
