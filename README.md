@@ -20,7 +20,7 @@ http://brasil.io/ </br>
 http://patiodigital.prefeitura.sp.gov.br/ </br>
 
 #### [Analisando dados do Pronatec](Analisando_dados_abertos.ipynb)
-##### Nesse caso de estudo, analiso dados obtidos via portal da transparência com objetivo de entender a distribuição de unidades de ensino no país.
+> Nesse caso de estudo, analiso dados obtidos via portal da transparência com objetivo de entender a distribuição de unidades de ensino no país.
 
 #### [Analisando dados de Saude](ManipulandoCirurgiasCSV.ipynb)
 
