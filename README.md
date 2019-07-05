@@ -5,9 +5,10 @@
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-One to two paragraph statement about your product and what it does.
 
-![](datamining.jpg)
+<p align="center">
+  <img width="221" height="228" src="datamining.jpg">
+</p>
 
 ## [Analisando dados do Pronatec](Analisando_dados_abertos.ipynb)
 
