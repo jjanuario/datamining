@@ -10,9 +10,20 @@
   <img width="221" height="228" src="datamining.jpg">
 </p>
 
-## [Analisando dados do Pronatec](Analisando_dados_abertos.ipynb)
+### Lista com alguns dados abertos do Brasil
 
-## [Analisando dados de Saude](ManipulandoCirurgiasCSV.ipynb)
+https://dadosabertos.camara.leg.br/
+https://www.senado.leg.br/
+http://dadosabertos.cl.df.gov.br/
+http://dados.gov.br/
+http://dados.df.gov.br/
+http://brasil.io/
+http://patiodigital.prefeitura.sp.gov.br/
+
+#### [Analisando dados do Pronatec](Analisando_dados_abertos.ipynb)
+##### Nesse caso de estudo, analiso dados obtidos via portal da transparência com objetivo de entender a distribuição de unidades de ensino no país.
+
+#### [Analisando dados de Saude](ManipulandoCirurgiasCSV.ipynb)
 
 
 <!-- Markdown link & img dfn's -->
