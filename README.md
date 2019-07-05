@@ -10,6 +10,13 @@
   <img width="221" height="228" src="datamining.jpg">
 </p>
 
+<p align="center">
+ ## [Analisando dados do Pronatec](Analisando_dados_abertos.ipynb)
+</p>
+
+<p align="center">
+## [Analisando dados de Saude](ManipulandoCirurgiasCSV.ipynb)
+</p>
 ## [Analisando dados do Pronatec](Analisando_dados_abertos.ipynb)
 
 ## [Analisando dados de Saude](ManipulandoCirurgiasCSV.ipynb)
