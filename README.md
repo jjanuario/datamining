@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img width="517" height="273" src="markus-spiske-5gGcn2PRrtc-unsplash.jpg">
+  <img width="517" height="273" src="img/markus-spiske-5gGcn2PRrtc-unsplash.jpg">
 </p>
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
